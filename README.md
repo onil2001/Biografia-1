@@ -1,3 +1,5 @@
+<body style="background-color:rgb(255,0,0);">
+</body>
 > ### Biografía
 > **Nombre:** Bryan Ignacio Miño Figueroa
 > **Edad:** 18 Años
