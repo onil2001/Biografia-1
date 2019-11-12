@@ -1,4 +1,4 @@
-<body style="background-color:rgb(255,0,0);">
+<body style="background-color:RGB(205, 92, 92);">
 </body>
 > ### Biografía
 > **Nombre:** Bryan Ignacio Miño Figueroa
