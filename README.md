@@ -1,7 +1,3 @@
-# Biografia-1
-Blog Personal
-# Biografia
-Blog Personal
 > ### Biografía
 > **Nombre:** Bryan Ignacio Miño Figueroa
 > **Edad:** 18 Años
