@@ -1,15 +1,15 @@
 <body style="background-color:RGB(208, 236, 231);">
 </body>
 > ### Biografía
-> **Nombre:** Bryan Ignacio Miño Figueroa
-> **Edad:** 18 Años
-> **Fecha de Nacimiento:** 1 de Enero del 2001
+> **Nombre:** Bryan Ignacio Miño Figueroa <br>
+> **Edad:** 18 Años <br>
+> **Fecha de Nacimiento:** 1 de Enero del 2001 <br>
 > ![70503992_524648504999252_203336570587847446_n(1)](https://user-images.githubusercontent.com/57647984/68637960-1d536480-04ce-11ea-9dcf-4153e8ea4d1b.jpg)
 > 
 > ### Redes Sociales
-> **Facebook** Bryan Miño [https://www.facebook.com/onil.mino](url)
-> **Intagram** oni.mino [https://www.instagram.com/onil.mino/](url)
-> **Twitter** @Bimf2001 [https://twitter.com/Bimf2001](url)
+> **Facebook** Bryan Miño [https://www.facebook.com/onil.mino](url) <br>
+> **Intagram** oni.mino [https://www.instagram.com/onil.mino/](url) <br>
+> **Twitter** @Bimf2001 [https://twitter.com/Bimf2001](url)  <br>
 > 
 > ### Estudios
 > **Jardín** Jardin de Infantes "Mercedez Gonsalez de Moscoso"
